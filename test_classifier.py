@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 # */AIPND/intropylab-classifying-images/test_classifier.py
 #                                                                             
-# PROGRAMMER: Jennifer S.                                                    
+# PROGRAMMER: Husanpreet Kaur
+
 # DATE CREATED: 01/30/2018                                  
 # REVISED DATE:             <=(Date Revised - if any)                         
 # PURPOSE: To demonstrate the proper usage of the classifier() function that 
